@@ -1,6 +1,6 @@
 # DevOps technical interview
 
-## Technical interview questions
+## Technical interview questions - Analysis
 
 ### Question 1
 This **Dockerfile** is used to create a Docker image for a Python Flask application. It starts from a base image python:3.8-slim-buster, sets the working directory to /app, copies the requirements.txt file from the current directory to the Docker image, installs the Python dependencies using pip3, copies the rest of the application code to the Docker image, and finally sets the default command to start the Flask application.

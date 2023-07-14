@@ -12,5 +12,9 @@ Questions in the form of multiple choices. Tests the general knowledge.
 File analysis questions with code examples. Tests the applied knowledge.
 - file-analysis.md
 - file-analysis-answers.md
+## [File Coding Questions](https://github.com/kriegalex/devops-blank-exam/blob/main/file-coding.md)
+File coding questions. Tests the applied knowledge.
+- file-coding.md
+- file-coding-answers.md
 ## [Interview Questions](https://github.com/kriegalex/devops-blank-exam/blob/main/interview.md)
 Open questions regarding a candidate's experience.
