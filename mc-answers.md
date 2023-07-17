@@ -8,7 +8,7 @@
 2. **What does the acronym 'IaC' stand for in the context of DevOps?**
 - A. Infrastructure as Code
 
-3. **Which of the following is not a benefit of Infrastructure as Code (IaC)?**
+3. **Which of the following is not a benefit of IaC?**
 - C. Increased cost
 
 4. **Which of the following is a popular tool for configuration management in DevOps?**
