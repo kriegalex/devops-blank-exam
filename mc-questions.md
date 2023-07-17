@@ -14,7 +14,7 @@
 - C. Integration as Code
 - D. Implementation as Code
 
-3. **Which of the following is not a benefit of Infrastructure as Code (IaC)?**
+3. **Which of the following is not a benefit of IaC?**
 - A. Speed and efficiency
 - B. Reduced risk
 - C. Increased cost
