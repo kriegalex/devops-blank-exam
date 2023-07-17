@@ -5,31 +5,31 @@
 1. **Which of the following is not a principle of DevOps?**
 - C. Siloed Teams
 
-3. **What does the acronym 'IaC' stand for in the context of DevOps?**
+2. **What does the acronym 'IaC' stand for in the context of DevOps?**
 - A. Infrastructure as Code
 
-4. **Which of the following is not a benefit of Infrastructure as Code (IaC)?**
+3. **Which of the following is not a benefit of Infrastructure as Code (IaC)?**
 - C. Increased cost
 
-5. **Which of the following is a popular tool for configuration management in DevOps?**
+4. **Which of the following is a popular tool for configuration management in DevOps?**
 - C. Chef
 
-6. **What is the main purpose of a Version Control System (VCS) in DevOps?**
+5. **What is the main purpose of a Version Control System (VCS) in DevOps?**
 - B. To manage and track code changes
 
-7. **Which of the following is not a stage in a typical CI/CD pipeline?**
+6. **Which of the following is not a stage in a typical CI/CD pipeline?**
 - D. Design
 
-8. **Which of the following is a popular open-source tool for continuous integration?**
+7. **Which of the following is a popular open-source tool for continuous integration?**
 - C. Jenkins
 
-9. **What does 'Shift Left' mean in the context of DevOps?**
+8. **What does 'Shift Left' mean in the context of DevOps?**
 - A. Moving tasks to the left of the CI/CD pipeline
 
-10. **Which of the following is not a common monitoring tool used in DevOps?**
+9. **Which of the following is not a common monitoring tool used in DevOps?**
 - D. Microsoft Word
 
-11. **What is the main purpose of log management in DevOps?**
+10. **What is the main purpose of log management in DevOps?**
 - C. To monitor and analyze system events for troubleshooting and understanding system behavior
 
 11. **Which of the following is not a key feature of a microservices architecture?**
